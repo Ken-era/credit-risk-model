@@ -1,2 +1,2 @@
-# credit-risk-model
+# Credit risk model
 Building a model to predict loan defaulting risk
